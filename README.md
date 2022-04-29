@@ -30,3 +30,23 @@
   -origin 연결하기
   -push
 * pull vs fetch
+
+**GitHub**는 원격 저장소를 제고하 는 서비스 기 때문에 
+따로 Git을 *설치*하지 않고도
+온라인 상에서 Gitdml ***버전 관리 기능***을 사용할 수 있습니다.
+
+> The information manager from hell.
+>> git means "global information traker"
+
+`function add(x,y){return x}`
+
+```
+<script>
+var today = new Date();
+document.write(today);
+</script>
+```
+
+<http://www.google.com>
+[구글](http://www.google.com)
+[구글](http://www.google.com, "검색 사이트")
