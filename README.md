@@ -51,4 +51,4 @@ document.write(today);
 [구글](http://www.google.com)
 [구글](http://www.google.com, "검색 사이트")
 
-!.[pf2](./images/pf2.png)
+![pf2](./images/pf2.png)
